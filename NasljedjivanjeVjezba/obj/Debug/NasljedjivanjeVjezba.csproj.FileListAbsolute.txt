@@ -1,0 +1,8 @@
+C:\Users\ucenik\Desktop\NasljedjivanjeVjezba\bin\Debug\NasljedjivanjeVjezba.exe.config
+C:\Users\ucenik\Desktop\NasljedjivanjeVjezba\bin\Debug\NasljedjivanjeVjezba.exe
+C:\Users\ucenik\Desktop\NasljedjivanjeVjezba\bin\Debug\NasljedjivanjeVjezba.pdb
+C:\Users\ucenik\Desktop\NasljedjivanjeVjezba\obj\Debug\NasljedjivanjeVjezba.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\NasljedjivanjeVjezba\obj\Debug\NasljedjivanjeVjezba.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\NasljedjivanjeVjezba\obj\Debug\NasljedjivanjeVjezba.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\NasljedjivanjeVjezba\obj\Debug\NasljedjivanjeVjezba.exe
+C:\Users\ucenik\Desktop\NasljedjivanjeVjezba\obj\Debug\NasljedjivanjeVjezba.pdb
